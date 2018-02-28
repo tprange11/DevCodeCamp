@@ -1,0 +1,15 @@
+body{
+	background-color:royalblue;
+}
+h1{
+	color:yellow;
+}
+.boldClass{
+	font-weight:bold;
+}
+#bigID{
+	font-size:24px;
+}
+.topNav{
+	color:yellow;
+}
